@@ -9,8 +9,6 @@ words = ["elephant", "sunshine", "keyboard", "adventure", "butterfly", "chocolat
          "whistle", "xylophone", "quasar", "wonderland", "pajamas", "radiant", "serendipity", "mysterious",
          "journey", "acoustic", "blueprint", "harmony", "cinnamon", "quicksilver", "blossom"]
 
-word = random.choice(words)
-
 app = tk.Tk()
 app.title("Type speed test")
 app.geometry("400x400")
